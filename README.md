@@ -1,16 +1,23 @@
-### Hi there 👋
+Hi there, I'm Leroy Bryan (Az-Back) - website 👋 https://az-back.github.io/Portfolio/
 
-<!--
-**Az-Back/Az-Back** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a beginner developper web.
 
-Here are some ideas to get you started:
+I’m currently learning everything :)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m looking to collaborate with other content creators
+
+↓You can found me here ↓
+bryan-leroy | LinkedIn
+
+Languages and Tools:
+
+Visual Studio Code
+
+HTML5
+
+CSS3
+
+JavaScript
+
+Wordpress
+
