@@ -2,7 +2,7 @@
 
 Website 👋 https://az-back.github.io/Portfolio/
 
-You can found my french CV here → [CV] ←(https://az-back.github.io/CV/)
+You can found my french CV here → [CV](https://az-back.github.io/CV/)←
 
 I'm a beginner developper web.
 
