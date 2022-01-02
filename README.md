@@ -1,18 +1,18 @@
-Hi there, I'm Leroy Bryan (Az-Back) - website 👋 https://az-back.github.io/Portfolio/
+### Hi there, I'm Leroy Bryan (Az-Back)
+
+Website 👋 https://az-back.github.io/Portfolio/
 
 I'm a beginner developper web.
 
-I’m currently learning everything :)
-
-I’m looking to collaborate with other content creators
+I'm looking for good developper web who can help me to experiment myself through lot of projects
 
 ### ↓You can found me here ↓:
 
-[<img align="left" alt=bryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="bryan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=wassimouricha&show_icons=true&hide_border=true" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=Az-Back&show_icons=true&hide_border=true" />
 
 ### Languages and Tools:
 
@@ -24,8 +24,6 @@ I’m looking to collaborate with other content creators
 
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
+<img align="left" alt="WordPress" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/wordpress/wordpress.png" />
 
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/jquery/jquery.png" />
-
-[linkedin]: https://www.linkedin.com/in/leroy-bryan/
+[linkedin]: https://www.linkedin.com/in/bryan-leroy/
