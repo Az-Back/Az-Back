@@ -4,7 +4,7 @@ Website 👋 https://az-back.github.io/Portfolio/
 
 You can found my french CV here → [CV](https://az-back.github.io/CV/) ←
 
-I'm a beginner developper web.
+I'm a beginner developer web.
 
 I'm looking for good developper web who can help me to experiment myself through lot of projects
 
